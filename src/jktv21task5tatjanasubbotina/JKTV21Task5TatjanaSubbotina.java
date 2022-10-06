@@ -5,7 +5,6 @@
  */
 package jktv21task5tatjanasubbotina;
 //import static java.lang.Math.random;
-import java.util.Arrays;
 import java.util.Random;
 
 /**
